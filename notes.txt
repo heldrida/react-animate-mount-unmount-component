@@ -1,0 +1,13 @@
+
+#Updating and componentWillReceiveProps():
+
+  https://developmentarc.gitbooks.io/react-indepth/content/life_cycle/update/component_will_receive_props.html
+
+#React SyntheticEvent
+
+  https://facebook.github.io/react/docs/events.html
+
+
+#onTransitionEnd
+
+  https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/ontransitionend
